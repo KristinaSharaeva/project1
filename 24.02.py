@@ -1,0 +1,2 @@
+msg = "please"
+print(msg)

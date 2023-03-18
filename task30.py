@@ -6,6 +6,6 @@ l = [a]*n
 
 for i in range(len(l)):
     l[i] = l[i] + i*b
-    i = i +1
+    
     
 print(l)
